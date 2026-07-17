@@ -1,4 +1,4 @@
-# Nobara Hibernate Setup
+# Nobara Hibernate Setup (may or may not work, no guarantee)
 
 Sleep-then-hibernate configuration for Dell Tiger Lake laptops running Nobara Linux with KDE Plasma 6.
 
